@@ -15,4 +15,4 @@ Which region is underperforming?
 Which payment mode is most preferred?
 Highest selling category?
 
-- Dashboard Interaction <a href="https://github.com/akashchalpe164/Sales-Dashboard-Analysis-Power-BI-/blob/main/Chetan%20Ecommerce%20Sales%20Dashboard.pbix">View Dashboard </a>
+- Dashboard Interaction <a href="https://github.com/akashchalpe164/Sales-Dashboard-Analysis-Power-BI-/blob/main/Sales%20Dashboard.png">View Dashboard </a>
