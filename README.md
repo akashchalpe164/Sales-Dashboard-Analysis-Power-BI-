@@ -45,7 +45,7 @@ Highest selling category?
 25. Save file as .pbix
 
 ## Dashboard Images 
-<img width="1290" height="730" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/7e157c9a-6fd4-421d-b785-ce9ff5fa5ea8" />
+<a  href= "https://1drv.ms/i/c/DF58E2B925261CF7/IQA8692_ebJ6T6tjN6AkJ902Aeq2lauN-WSw85zPGIWlHGc?e=MbEfO4" > view Dashboard image </a>
 
 
 
