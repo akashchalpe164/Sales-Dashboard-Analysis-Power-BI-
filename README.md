@@ -44,6 +44,8 @@ Highest selling category?
 24. Add insights (text box with key findings)
 25. Save file as .pbix
 
-## Dashboard
+## Dashboard Images 
+<img width="1290" height="730" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/7e157c9a-6fd4-421d-b785-ce9ff5fa5ea8" />
+
 
 
