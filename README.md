@@ -18,31 +18,15 @@ Highest selling category?
 - Dashboard Interaction <a href="https://github.com/akashchalpe164/Sales-Dashboard-Analysis-Power-BI-/blob/main/Sales%20Dashboard.png">View Dashboard </a>
 
 ## Process 
-1. Open Power BI Desktop
-2. Click Get Data → Select Excel/CSV → Load dataset
-3. Go to Data View and check data types (Sales, Profit, Quantity, Date)
-4. Click Modeling → New Measure → create Total Sales = SUM(Sales)
-5. Create Total Profit = SUM(Profit)
-6. Create Total Quantity = SUM(Quantity)
-7. Create AOV = Sales / Order Count
-8. Create Profit Margin = Profit / Sales * 100
-9. Go to Report View
-10. Add Card visual → drag Total Sales
-11. Add Card visual → drag Total Profit
-12. Add Card visual → drag AOV
-13. Add Card visual → drag Quantity
-14. Add Bar Chart → Sales by State
-15. Add Donut Chart → Sales by Category
-16. Add Line/Column Chart → Profit by Month
-17. Add Bar Chart → Profit by Sub-category
-18. Add Donut Chart → Payment Mode
-19. Add Slicer → State filter
-20. Add Slicer → Quarter/Date filter
-21. Format visuals (colors, labels, titles)
-22. Add Dashboard Title (Sales Dashboard Analysis)
-23. Arrange visuals properly (clean layout)
-24. Add insights (text box with key findings)
-25. Save file as .pbix
+1. Open Power BI → Load dataset
+2. Check data types
+3. Create measures (Sales, Profit, Quantity, AOV)
+4. Add KPI Cards
+5. Add charts (State, Category, Month, Sub-category)
+6. Add slicers (State, Date)
+7. Format dashboard (title, colors)
+8. Add insights
+9. Save .pbix file
 
 ## Dashboard Images 
 <a  href= "https://1drv.ms/i/c/DF58E2B925261CF7/IQA8692_ebJ6T6tjN6AkJ902Aeq2lauN-WSw85zPGIWlHGc?e=MbEfO4" > view Dashboard image </a>
